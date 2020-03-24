@@ -1,1 +1,1 @@
-# covid19.fyi-migrations
+# COVID19.FYI - Migrations &middot; [![GitHub license](https://img.shields.io/github/license/COVID19-FYI/covid19.fyi-migrations)](https://github.com/COVID19-FYI/covid19.fyi-migrations/blob/master/LICENSE)

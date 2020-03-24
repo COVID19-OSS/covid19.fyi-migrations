@@ -1,0 +1,19 @@
+{
+  "name": "@covid19/migrations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "database migrations for the covid19.fyi ecosystem",
+  "scripts": {
+    "migrate": "node-pg-migrate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:COVID19-OSS/covid19.fyi-migrations.git"
+  },
+  "author": "GUH <contact@covid19.fyi>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "node-pg-migrate": "^4.2.3",
+    "pg": "^7.18.2"
+  }
+}
