@@ -4,5 +4,5 @@ COVID19.FYI Database Migrations
 
 This repository includes code that will build database structure for PostgreSQL and deploy migrations to a staging/production environment.
 
-# Data Modeling
+## Data Modeling
 ![Data Modeling](https://i.imgur.com/ET0lI6C.png)
